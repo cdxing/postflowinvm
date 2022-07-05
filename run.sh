@@ -1,6 +1,7 @@
 #!/bin/bash
 
 root -b -q -l get_phi_flow.C+
+#root -b -q -l get_phi_flow.C
 echo 'Good morning/afternoon/evening/night! I love you, Ding Chen!'
 echo ""
 echo "Life is not a brief candle to me."
